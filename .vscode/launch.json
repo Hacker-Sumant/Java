@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Operator",
+            "request": "launch",
+            "mainClass": "Operator",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch lopp",
+            "request": "launch",
+            "mainClass": "lopp",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiceset1",
+            "request": "launch",
+            "mainClass": "practiceset1",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ask",
+            "request": "launch",
+            "mainClass": "Ask",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ask2",
+            "request": "launch",
+            "mainClass": "Ask2",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Javatut",
+            "request": "launch",
+            "mainClass": "Javatut",
+            "projectName": "PROJECT_88360aee"
+        }
+    ]
+}
