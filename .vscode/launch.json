@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh3",
+            "request": "launch",
+            "mainClass": "cwh3",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh2practiceset",
+            "request": "launch",
+            "mainClass": "cwh2practiceset",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
             "name": "Launch Operator",
             "request": "launch",
             "mainClass": "Operator",
