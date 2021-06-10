@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Practial",
+            "request": "launch",
+            "mainClass": "Practial",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh3",
             "request": "launch",
             "mainClass": "cwh3",
