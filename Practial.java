@@ -17,6 +17,5 @@ public class Practial {
                 System.out.print("");
             }
         }
-        System.out.println("Loop Exit");
     }
 }
