@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Practiceset3",
+            "request": "launch",
+            "mainClass": "Practiceset3",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
             "name": "Launch string",
             "request": "launch",
             "mainClass": "string",
