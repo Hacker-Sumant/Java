@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Conditional",
+            "request": "launch",
+            "mainClass": "Conditional",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
             "name": "Launch Practiceset3",
             "request": "launch",
             "mainClass": "Practiceset3",
