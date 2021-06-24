@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch switchcase",
+            "request": "launch",
+            "mainClass": "switchcase",
+            "projectName": "PROJECT_88360aee"
+        },
+        {
+            "type": "java",
             "name": "Launch Conditional",
             "request": "launch",
             "mainClass": "Conditional",
